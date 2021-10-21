@@ -10,7 +10,6 @@ import timeit
 
 
 def test():
-    # password = str(input("Please type in your password:"))
     password = "abcdefghijglmnop"
     encrypted_password = crypt.crypt(password)
     print("Pre encryption: " + password)

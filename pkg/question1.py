@@ -4,11 +4,10 @@ File    :question1.py
 Created :14/10/2021
 Author  : Eoin O'Mahony
 """
-import ntpath
+
 import os
 import sys
-# import modulefinder
-# import pathlib
+
 
 if __name__ == '__main__':
     my_os = os.uname()
